@@ -1,4 +1,4 @@
-# SynapseWarehouse
+# Azure Synapse Data Warehouse Pipeline
 # Data Ingestion, Transformation, Storage in Azure, ETL
 
 This project focuses on ingesting, transforming, and storing data within **Azure Data Lake Storage (ADLS) Gen2**, leveraging **Azure Data Factory (ADF)**, **Azure Databricks**, and various **Azure services** for security, performance optimization, and scalability.
